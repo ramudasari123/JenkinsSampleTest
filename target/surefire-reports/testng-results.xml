@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+      <class name="Nest.Automation.WebHomePage">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Nest.Automation.WebHomePage@6adede5]" name="launch" duration-ms="0" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Nest.Automation.WebHomePage@6adede5]" name="login" duration-ms="0" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:Nest.Automation.WebHomePage@6adede5]" name="verifyHomePage" duration-ms="0" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+      </class> <!-- Nest.Automation.WebHomePage -->
+      <class name="Nest.Automation.MobileTests">
+        <test-method status="PASS" signature="launchMobileApp()[pri:0, instance:Nest.Automation.MobileTests@5649fd9b]" name="launchMobileApp" duration-ms="16" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchMobileApp -->
+        <test-method status="PASS" signature="loginMobileApp()[pri:0, instance:Nest.Automation.MobileTests@5649fd9b]" name="loginMobileApp" duration-ms="0" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMobileApp -->
+        <test-method status="PASS" signature="verifyMobileHomePage()[pri:0, instance:Nest.Automation.MobileTests@5649fd9b]" name="verifyMobileHomePage" duration-ms="0" started-at="2019-08-13T15:51:20 IST" finished-at="2019-08-13T15:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobileHomePage -->
+      </class> <!-- Nest.Automation.MobileTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
